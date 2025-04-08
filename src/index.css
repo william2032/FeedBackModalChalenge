@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+span {
+    max-width: 300px;
+    margin: 0 -50px;
+}
